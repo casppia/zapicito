@@ -1,0 +1,98 @@
+[
+  {
+    "id": "4214b77c",
+    "firstName": "Andre",
+    "lastName": "Norris",
+    "phone": "786-205-0976",
+    "email": "anorris@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "45c555e8",
+    "firstName": "Albert",
+    "lastName": "Watson",
+    "phone": "281-952-2874",
+    "email": "awatson@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "1750c510",
+    "firstName": "Carrie",
+    "lastName": "Wargo",
+    "phone": "662-626-9296",
+    "email": "cwargo@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "dd1cf139",
+    "firstName": "Carol",
+    "lastName": "Henslee",
+    "phone": "206-429-6709",
+    "email": "chenslee@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "9e102929",
+    "firstName": "Carlos",
+    "lastName": "Flatt",
+    "phone": "630-833-8783",
+    "email": "cflatt@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "be023836",
+    "firstName": "John",
+    "lastName": "Spinney",
+    "phone": "409-617-9924",
+    "email": "jspinney@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "ae218c4a",
+    "firstName": "Edward",
+    "lastName": "Ward",
+    "phone": "707-270-6492",
+    "email": "eward@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "b538b26c",
+    "firstName": "Mitzi",
+    "lastName": "Dixon",
+    "phone": "512-763-2725",
+    "email": "mdixon@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "6791e6c5",
+    "firstName": "Marie",
+    "lastName": "Oliver",
+    "phone": "937-575-9010",
+    "email": "moliver@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "234f773d",
+    "firstName": "Shelley",
+    "lastName": "Register",
+    "phone": "415-823-8599",
+    "email": "sregister@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "10e3146a",
+    "firstName": "Jean",
+    "lastName": "Hutcheson",
+    "phone": "734-276-8332",
+    "email": "jhutcheson@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  },
+  {
+    "id": "10b1f97a",
+    "firstName": "Walter",
+    "lastName": "Lowery",
+    "phone": "212-462-8569",
+    "email": "wlowery@zcustomer.com",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+  }
+]

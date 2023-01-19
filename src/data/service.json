@@ -1,0 +1,98 @@
+[
+  {
+    "companyID": "105c3ea1",
+    "services": [
+      {
+        "id": "6a97be8f",
+        "name": "Buzz Cut",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "type": "Haircut",
+        "duration": 25,
+        "price": 30
+      },
+      {
+        "id": "cd485ce0",
+        "name": "Long Pixie",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "type": "Shaving",
+        "duration": 25,
+        "price": 40
+      },
+      {
+        "id": "da1c5f05",
+        "name": "Beard Deep Cleanse",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "type": "Haircut",
+        "duration": 30,
+        "price": 35
+      }
+    ],
+    "types": ["Haircut", "Hair Colouring", "Shaving", "Beard Sculpting", "Facials"]
+  },
+  {
+    "companyID": "a098d76b",
+    "services": [
+      {
+        "id": "3414994f",
+        "name": "Fade Haircut",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "type": "Haircut",
+        "duration": 35,
+        "price": 30,
+        "isActive": true
+      },
+      {
+        "id": "d0cb730c",
+        "name": "Neck Cleanup",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "type": "Shaving",
+        "duration": 20,
+        "price": 25,
+        "isActive": true
+      },
+      {
+        "id": "b138cbda",
+        "name": "Balbo Beard",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "type": "Shaving",
+        "duration": 25,
+        "price": 35,
+        "isActive": true
+      }
+    ],
+    "types": ["Haircut", "Hair Colouring", "Shaving", "Beard Sculpting", "Facials"]
+  },
+  {
+    "companyID": "4ae80e50",
+    "services": [
+      {
+        "id": "2593bfaf",
+        "name": "Undercut",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "type": "Haircut",
+        "duration": 30,
+        "price": 30,
+        "isActive": true
+      },
+      {
+        "id": "c36fe5c9",
+        "name": "Crew Cut",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "type": "Haircut",
+        "duration": 15,
+        "price": 30,
+        "isActive": true
+      },
+      {
+        "id": "2c1ce890",
+        "name": "Van Dyke Beard",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "type": "Shaving",
+        "duration": 30,
+        "price": 35,
+        "isActive": true
+      }
+    ],
+    "types": ["Haircut", "Hair Colouring", "Shaving", "Beard Sculpting", "Facials"]
+  }
+]

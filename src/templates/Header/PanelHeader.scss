@@ -1,0 +1,24 @@
+@import "../../styles/base";
+
+.header {
+  height: auto;
+  padding: 28px 4%;
+  background-color: $white;
+
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &-company__name {
+    font-size: 28px;
+    color: $strong-gray;
+  }
+
+  &-user-info__container {
+    display: flex;
+    align-items: center;
+    gap: 21px;
+  }
+}

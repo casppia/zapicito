@@ -1,0 +1,161 @@
+[
+  {
+    "companyID": "105c3ea1",
+    "employees": [
+      {
+        "branchID": ["dc737f6c", "36e4ea67"],
+        "id": "9e9c68c2",
+        "name": "Devon",
+        "surname": "Williams",
+        "phone": "657-165-7430",
+        "email": "dwilliams@gurutrim.com"
+      },
+      {
+        "branchID": ["dc737f6c"],
+        "id": "1995257",
+        "name": "Sarah",
+        "surname": "Nichols",
+        "phone": "238-958-6214",
+        "email": "snichols@gurutrim.com"
+      },
+      {
+        "branchID": ["36e4ea67"],
+        "id": "6a0e76fb",
+        "name": "Edna",
+        "surname": "Hudson",
+        "phone": "236-570-9061",
+        "email": "ehudson@gurutrim.com"
+      },
+      {
+        "branchID": ["36e4ea67"],
+        "id": "eab1eab3",
+        "name": "Mathew",
+        "surname": "Reid",
+        "phone": "657-142-7830",
+        "email": "mreid@gurutrim.com"
+      },
+      {
+        "branchID": ["1114e865"],
+        "id": "5f00fc17",
+        "name": "Brandy",
+        "surname": "Daniels",
+        "phone": "657-236-6576",
+        "email": "bdaniels@gurutrim.com"
+      },
+      {
+        "branchID": ["1114e865"],
+        "id": "df35bef9",
+        "name": "Lisa",
+        "surname": "Gonzales",
+        "phone": "657-131-8144",
+        "email": "lgonzales@gurutrim.com"
+      }
+    ]
+  },
+  {
+    "companyID": "a098d76b",
+    "employees": [
+      {
+        "branchID": ["4362594"],
+        "id": "6ee6a5cf",
+        "name": "Lester",
+        "surname": "Rose",
+        "phone": "378-328-7281",
+        "email": "lrose@urbanshave.com"
+      },
+      {
+        "branchID": ["4362594"],
+        "id": "ed1ad853",
+        "name": "Alicia",
+        "surname": "Fuller",
+        "phone": "657-109-9281",
+        "email": "afuller@urbanshave.com"
+      },
+      {
+        "branchID": ["2d27de2c"],
+        "id": "da2c08d4",
+        "name": "Flenn",
+        "surname": "Richardson",
+        "phone": "418-683-9483",
+        "email": "frichardson@urbanshave.com"
+      },
+      {
+        "branchID": ["2d27de2c"],
+        "id": "299e1d05",
+        "name": "Deann",
+        "surname": "Ruiz",
+        "phone": "657-118-8763",
+        "email": "druiz@urbanshave.com"
+      },
+      {
+        "branchID": ["0dca301d"],
+        "id": "398a535d",
+        "name": "Tim",
+        "surname": "Gomez",
+        "phone": "418-650-7668",
+        "email": "tgomez@urbanshave.com"
+      },
+      {
+        "branchID": ["0dca301d"],
+        "id": "2cbe7560",
+        "name": "Sean",
+        "surname": "Fletcher",
+        "phone": "657-252-1935",
+        "email": "sfletcher@urbanshave.com"
+      }
+    ]
+  },
+  {
+    "companyID": "4ae80e50",
+    "employees": [
+      {
+        "branchID": ["88684135"],
+        "id": "76e6e8a2",
+        "name": "Norma",
+        "surname": "Nelson",
+        "phone": "327-077-5502",
+        "email": "nnelson@legendroom"
+      },
+      {
+        "branchID": ["88684135"],
+        "id": "b11f3757",
+        "name": "Arron",
+        "surname": "Diaz",
+        "phone": "496-843-4565",
+        "email": "adiaz@legendroom"
+      },
+      {
+        "branchID": ["c5cd1a46"],
+        "id": "6e22a188",
+        "name": "Sue",
+        "surname": "Myers",
+        "phone": "391-054-3790",
+        "email": "smyers@legendroom"
+      },
+      {
+        "branchID": ["c5cd1a46"],
+        "id": "e4e2117d",
+        "name": "Anita",
+        "surname": "Bell",
+        "phone": "657-131-7331",
+        "email": "abell@legendroom"
+      },
+      {
+        "branchID": ["729be914"],
+        "id": "2ff0f57b",
+        "name": "Chad",
+        "surname": "Murray",
+        "phone": "243-135-9016",
+        "email": "cmurray@legendroom"
+      },
+      {
+        "branchID": ["729be914"],
+        "id": "f54319c9",
+        "name": "Enrique",
+        "surname": "Curtis",
+        "phone": "373-487-9065",
+        "email": "ecurtis@legendroom"
+      }
+    ]
+  }
+]

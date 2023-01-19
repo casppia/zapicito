@@ -1,0 +1,70 @@
+{
+  "admin": [
+    {
+      "id": "105c3ea1",
+      "company": "Guru Trim",
+      "admins": [
+        {
+          "companyID": "105c3ea1",
+          "id": "f86a8ff2",
+          "name": "Wyatt Humphrey",
+          "email": "admin@gurutrim.com",
+          "password": "1234aA!",
+          "role": "Admin"
+        },
+        {
+          "companyID": "105c3ea1",
+          "id": "ba235c5f",
+          "name": "Connie Brandt",
+          "email": "manager@gurutrim.com",
+          "password": "1234aA!",
+          "role": "Manager"
+        }
+      ]
+    },
+    {
+      "id": "a098d76b",
+      "company": "Urban Shave",
+      "admins": [
+        {
+          "companyID": "a098d76b",
+          "id": "43cb0dcd",
+          "name": "Hal Scott",
+          "email": "admin@urbanshave.com",
+          "password": "1234aA!",
+          "role": "Admin"
+        },
+        {
+          "companyID": "a098d76b",
+          "id": "f1d26623",
+          "name": "Felicity Mckay",
+          "email": "manager@urbanshave.com",
+          "password": "1234aA!",
+          "role": "Manager"
+        }
+      ]
+    },
+    {
+      "id": "4ae80e50",
+      "company": "The Legend Room",
+      "admins": [
+        {
+          "companyID": "4ae80e50",
+          "id": "a485e61c",
+          "name": "Billy Mitchell",
+          "email": "admin@thelegendroom.com",
+          "password": "1234aA!",
+          "role": "Admin"
+        },
+        {
+          "companyID": "4ae80e50",
+          "id": "69111ab7",
+          "name": "Constance Mills",
+          "email": "manager@thelegendroom.com",
+          "password": "1234aA!",
+          "role": "Manager"
+        }
+      ]
+    }
+  ]
+}

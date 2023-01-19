@@ -1,0 +1,425 @@
+[
+  {
+    "id": "105c3ea1",
+    "company": "Guru Trim",
+    "branches": [
+      {
+        "companyID": "105c3ea1",
+        "id": "dc737f6c",
+        "name": "Chapalita",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "address": "Lorem ipsum dolor 123",
+        "phone": "123-333-6789",
+        "schedule": [
+          {
+            "day": "Monday",
+            "from": "",
+            "to": ""
+          },
+          {
+            "day": "Tuesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Wednesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Thursday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Friday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Saturday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Sunday",
+            "from": "0900",
+            "to": "1600"
+          }
+        ]
+      },
+      {
+        "companyID": "105c3ea1",
+        "id": "36e4ea67",
+        "name": "Centro",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "address": "Lorem ipsum dolor 456",
+        "phone": "123-444-6789",
+        "schedule": [
+          {
+            "day": "Monday",
+            "from": "1200",
+            "to": "1600"
+          },
+          {
+            "day": "Tuesday",
+            "from": "0900",
+            "to": "1400"
+          },
+          {
+            "day": "Wednesday",
+            "from": "0900",
+            "to": "1400"
+          },
+          {
+            "day": "Thursday",
+            "from": "",
+            "to": ""
+          },
+          {
+            "day": "Friday",
+            "from": "0900",
+            "to": "2000"
+          },
+          {
+            "day": "Saturday",
+            "from": "",
+            "to": ""
+          },
+          {
+            "day": "Sunday",
+            "from": "0900",
+            "to": "1400"
+          }
+        ]
+      },
+      {
+        "companyID": "105c3ea1",
+        "id": "1114e865",
+        "name": "Patria",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "address": "Lorem ipsum dolor 789",
+        "phone": "123-555-6789",
+        "schedule": [
+          {
+            "day": "Monday",
+            "from": "0900",
+            "to": "1400"
+          },
+          {
+            "day": "Tuesday",
+            "from": "1000",
+            "to": "1600"
+          },
+          {
+            "day": "Wednesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Thursday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Friday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Saturday",
+            "from": "",
+            "to": ""
+          },
+          {
+            "day": "Sunday",
+            "from": "",
+            "to": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a098d76b",
+    "company": "Urban Shave",
+    "branches": [
+      {
+        "companyID": "a098d76b",
+        "id": "4362594",
+        "name": "Tlaquepaque",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "address": "Lorem ipsum dolor 123",
+        "phone": "123-555-6789",
+        "schedule": [
+          {
+            "day": "Monday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Tuesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Wednesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Thursday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Friday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Saturday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Sunday",
+            "from": "0900",
+            "to": "1600"
+          }
+        ]
+      },
+      {
+        "companyID": "a098d76b",
+        "id": "2d27de2c",
+        "name": "Andares",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "address": "Lorem ipsum dolor 123",
+        "phone": "123-555-6789",
+        "schedule": [
+          {
+            "day": "Monday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Tuesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Wednesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Thursday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Friday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Saturday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Sunday",
+            "from": "0900",
+            "to": "1600"
+          }
+        ]
+      },
+      {
+        "companyID": "a098d76b",
+        "id": "0dca301d",
+        "name": "Patria",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "address": "Lorem ipsum dolor 123",
+        "phone": "123-555-6789",
+        "schedule": [
+          {
+            "day": "Monday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Tuesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Wednesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Thursday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Friday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Saturday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Sunday",
+            "from": "0900",
+            "to": "1600"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4ae80e50",
+    "company": "The Legend Room",
+    "branches": [
+      {
+        "companyID": "4ae80e50",
+        "id": "88684135",
+        "name": "Forum",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "address": "Lorem ipsum dolor 123",
+        "phone": "123-555-6789",
+        "schedule": [
+          {
+            "day": "Monday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Tuesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Wednesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Thursday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Friday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Saturday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Sunday",
+            "from": "0900",
+            "to": "1600"
+          }
+        ]
+      },
+      {
+        "companyID": "4ae80e50",
+        "id": "c5cd1a46",
+        "name": "Providencia",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "address": "Lorem ipsum dolor 123",
+        "phone": "123-555-6789",
+        "schedule": [
+          {
+            "day": "Monday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Tuesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Wednesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Thursday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Friday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Saturday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Sunday",
+            "from": "0900",
+            "to": "1600"
+          }
+        ]
+      },
+      {
+        "companyID": "4ae80e50",
+        "id": "729be914",
+        "name": "Centro",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "address": "Lorem ipsum dolor 123",
+        "phone": "123-555-6789",
+        "schedule": [
+          {
+            "day": "Monday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Tuesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Wednesday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Thursday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Friday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Saturday",
+            "from": "0900",
+            "to": "1600"
+          },
+          {
+            "day": "Sunday",
+            "from": "0900",
+            "to": "1600"
+          }
+        ]
+      }
+    ]
+  }
+]

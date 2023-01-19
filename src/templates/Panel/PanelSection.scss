@@ -1,0 +1,225 @@
+@import "../../styles/base";
+
+
+.panel {
+  min-height: 100vh;
+  &-content {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    overflow: "initial";
+    .site-layout-background {
+      margin: 0 5%;
+      max-width: 1200px;
+      width: 100%;
+    }
+    .ant-form-horizontal .ant-form-item-control {
+      margin-left: 8px;
+    }
+    .ant-form-horizontal {
+      width: 80%;
+      position: relative;
+      .form {
+        &-notification__container {
+          position: absolute;
+          width: 100%;
+          top: 0;
+          margin-bottom: 0;
+        }
+        &-top__item {
+          padding-top: 35px;
+        }
+        &-bottom__btns {
+          display: flex;
+          justify-content: flex-end;
+          gap: 14px;
+        }
+      }
+    }
+    .ant-alert {
+      max-width: 310px;
+      width: 100% !important;
+      margin: auto !important;
+      &-icon {
+        margin-right: 0;
+      }
+    }
+  }
+  &-title-btn__container {
+    display: flex;
+    padding: 0 0 30px;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &-title-btns__container {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    .anticon-left-circle {
+      width: 30px;
+      svg {
+        height: 100%;
+        width: 100%;
+        fill: $primary-color;
+      }
+    }
+  }
+  &-form-btn {
+    color: $white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    background-color: $primary-color;
+  }
+
+  &-sider {
+    background: $primary-color;
+    .ant-layout-sider-zero-width-trigger {
+      position: absolute;
+      top: 0;
+      background: $primary-color;
+      border-radius: 0 2px 2px 0;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+    .ant-menu {
+      background: $primary-color;
+    }
+  }
+
+  .ant {
+    &-table {
+      border-radius: 15px;
+      box-shadow: 0px 10px 20px 7px #d2d2d25c;
+      &-wrapper {
+        padding: 30px 0;
+        border-radius: 15px;
+      }
+      &-thead tr th {
+        background-color: $primary-color;
+        color: $white;
+        &:hover {
+          background-color: $primary-color !important;
+        }
+      }
+      &-thead tr th:first-child {
+        border-top-left-radius: 15px !important;
+      }
+      &-thead tr th:last-child {
+        border-top-right-radius: 15px !important;
+      }
+    }
+    &-form {
+      display: inline-block;
+      padding-top: 15px;
+      &-item-label {
+        max-width: 100%;
+        flex: 0 0 15%;
+      }
+      &-item-control {
+        max-width: 100%;
+      }
+    }
+  }
+}
+
+.ant-modal {
+  position: absolute !important;
+  top: calc(50% - 108px) !important;
+  left: calc(50% - 155px);
+}
+.ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background-color: $button-select;
+}
+
+.info-card {
+  &__container {
+    display: flex;
+    gap: 30px;
+    .ant {
+      &-card {
+        flex-basis: 50%;
+        height: 100%;
+        text-align: left;
+        border-radius: 15px;
+        box-shadow: 0px 10px 20px 7px #d2d2d25c;
+        &-head {
+          background: $primary-color;
+          color: $white;
+          border-radius: 15px 15px 0 0;
+        }
+        &-body {
+          background: $white;
+          color: $primary-color;
+          border-radius: 0 0 15px 15px;
+        }
+      }
+      &-collapse {
+        flex-basis: 50%;
+        &-header {
+          color: $white !important;
+          background-color: $primary-color;
+          text-align: left;
+          margin-top: 16px;
+          border-radius: 15px 15px 0 0 !important;
+        }
+        &-content {
+          background: $white !important;
+          color: $primary-color;
+          text-align: left;
+        }
+        &-item {
+          box-shadow: 0px 10px 20px 7px #d2d2d25c;
+          &:first-child {
+            .ant-collapse-header {
+              margin-top: 0;
+            }
+          }
+        }
+      }
+    }
+    .work-hours {
+      &__container {
+        display: flex;
+        gap: 8px;
+      }
+    }
+  }
+}
+
+.ant-alert-error,
+.ant-alert-success {
+  margin: auto !important;
+  border-radius: 4px !important;
+}
+
+.dropdown__btn {
+  border: none;
+  background: none;
+  box-shadow: none;
+  &:hover {
+    background: none;
+  }
+}
+
+.search-and-dropdown__container {
+  display: flex;
+  margin-left: auto;
+  max-width: 50%;
+  button {
+    &:nth-of-type(1) {
+      display: none;
+    }
+  }
+  .dropdown__trigger {
+    .ant-dropdown-trigger {
+      border-radius: 0 5px 5px 0 !important;
+    }
+  }
+}
+
+.action-item__icon {
+  color: $icon-purple;
+}

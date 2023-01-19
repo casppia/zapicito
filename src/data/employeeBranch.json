@@ -1,0 +1,323 @@
+[
+  {
+    "companyID": "105c3ea1",
+    "employees": [
+      {
+        "employeeID": "9e9c68c2",
+        "branches" : [
+          {
+            "branchID": "dc737f6c",
+            "isActive": false
+          },
+          {
+            "branchID": "36e4ea67",
+            "isActive": true
+          },
+          {
+            "branchID": "1114e865",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "1995257",
+        "branches" : [
+          {
+            "branchID": "dc737f6c",
+            "isActive": true
+          },
+          {
+            "branchID": "36e4ea67",
+            "isActive": false
+          },
+          {
+            "branchID": "1114e865",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "6a0e76fb",
+        "branches" : [
+          {
+            "branchID": "dc737f6c",
+            "isActive": false
+          },
+          {
+            "branchID": "36e4ea67",
+            "isActive": true
+          },
+          {
+            "branchID": "1114e865",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "eab1eab3",
+        "branches" : [
+          {
+            "branchID": "dc737f6c",
+            "isActive": false
+          },
+          {
+            "branchID": "36e4ea67",
+            "isActive": true
+          },
+          {
+            "branchID": "1114e865",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "5f00fc17",
+        "branches" : [
+          {
+            "branchID": "dc737f6c",
+            "isActive": false
+          },
+          {
+            "branchID": "36e4ea67",
+            "isActive": false
+          },
+          {
+            "branchID": "1114e865",
+            "isActive": true
+          }
+        ]
+      },
+      {
+        "employeeID": "df35bef9",
+        "branches" : [
+          {
+            "branchID": "dc737f6c",
+            "isActive": false
+          },
+          {
+            "branchID": "36e4ea67",
+            "isActive": false
+          },
+          {
+            "branchID": "1114e865",
+            "isActive": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "companyID": "a098d76b",
+    "employees": [
+      {
+        "employeeID": "6ee6a5cf",
+        "branches" : [
+          {
+            "branchID": "4362594",
+            "isActive": true
+          },
+          {
+            "branchID": "2d27de2c",
+            "isActive": false
+          },
+          {
+            "branchID": "0dca301d",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "ed1ad853",
+        "branches" : [
+          {
+            "branchID": "4362594",
+            "isActive": true
+          },
+          {
+            "branchID": "2d27de2c",
+            "isActive": false
+          },
+          {
+            "branchID": "0dca301d",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "da2c08d4",
+        "branches" : [
+          {
+            "branchID": "4362594",
+            "isActive": false
+          },
+          {
+            "branchID": "2d27de2c",
+            "isActive": true
+          },
+          {
+            "branchID": "0dca301d",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "299e1d05",
+        "branches" : [
+          {
+            "branchID": "4362594",
+            "isActive": false
+          },
+          {
+            "branchID": "2d27de2c",
+            "isActive": true
+          },
+          {
+            "branchID": "0dca301d",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "398a535d",
+        "branches" : [
+          {
+            "branchID": "4362594",
+            "isActive": false
+          },
+          {
+            "branchID": "2d27de2c",
+            "isActive": false
+          },
+          {
+            "branchID": "0dca301d",
+            "isActive": true
+          }
+        ]
+      },
+      {
+        "employeeID": "2cbe7560",
+        "branches" : [
+          {
+            "branchID": "4362594",
+            "isActive": false
+          },
+          {
+            "branchID": "2d27de2c",
+            "isActive": false
+          },
+          {
+            "branchID": "0dca301d",
+            "isActive": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "companyID": "4ae80e50",
+    "employees": [
+      {
+        "employeeID": "76e6e8a2",
+        "branches" : [
+          {
+            "branchID": "88684135",
+            "isActive": true
+          },
+          {
+            "branchID": "c5cd1a46",
+            "isActive": false
+          },
+          {
+            "branchID": "729be914",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "b11f3757",
+        "branches" : [
+          {
+            "branchID": "88684135",
+            "isActive": true
+          },
+          {
+            "branchID": "c5cd1a46",
+            "isActive": false
+          },
+          {
+            "branchID": "729be914",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "6e22a188",
+        "branches" : [
+          {
+            "branchID": "88684135",
+            "isActive": false
+          },
+          {
+            "branchID": "c5cd1a46",
+            "isActive": true
+          },
+          {
+            "branchID": "729be914",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "e4e2117d",
+        "branches" : [
+          {
+            "branchID": "88684135",
+            "isActive": false
+          },
+          {
+            "branchID": "c5cd1a46",
+            "isActive": true
+          },
+          {
+            "branchID": "729be914",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "employeeID": "2ff0f57b",
+        "branches" : [
+          {
+            "branchID": "88684135",
+            "isActive": false
+          },
+          {
+            "branchID": "c5cd1a46",
+            "isActive": false
+          },
+          {
+            "branchID": "729be914",
+            "isActive": true
+          }
+        ]
+      },
+      {
+        "employeeID": "f54319c9",
+        "branches" : [
+          {
+            "branchID": "88684135",
+            "isActive": false
+          },
+          {
+            "branchID": "c5cd1a46",
+            "isActive": false
+          },
+          {
+            "branchID": "729be914",
+            "isActive": true
+          }
+        ]
+      }
+    ]
+  }
+]

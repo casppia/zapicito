@@ -1,0 +1,171 @@
+[
+  {
+    "companyID": "105c3ea1",
+    "branches": [
+      {
+        "branchID": "dc737f6c",
+        "services": [
+          {
+            "serviceID": "6a97be8f",
+            "isActive": false
+          },
+          {
+            "serviceID": "cd485ce0",
+            "isActive": true
+          },
+          {
+            "serviceID": "da1c5f05",
+            "isActive": true
+          }
+        ]
+      },
+      {
+        "branchID": "36e4ea67",
+        "services": [
+          {
+            "serviceID": "6a97be8f",
+            "isActive": true
+          },
+          {
+            "serviceID": "cd485ce0",
+            "isActive": false
+          },
+          {
+            "serviceID": "da1c5f05",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "branchID": "1114e865",
+        "services": [
+          {
+            "serviceID": "6a97be8f",
+            "isActive": true
+          },
+          {
+            "serviceID": "cd485ce0",
+            "isActive": true
+          },
+          {
+            "serviceID": "da1c5f05",
+            "isActive": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "companyID": "a098d76b",
+    "branches": [
+      {
+        "branchID": "4362594",
+        "services": [
+          {
+            "serviceID": "3414994f",
+            "isActive": false
+          },
+          {
+            "serviceID": "d0cb730c",
+            "isActive": false
+          },
+          {
+            "serviceID": "b138cbda",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "branchID": "2d27de2c",
+        "services": [
+          {
+            "serviceID": "3414994f",
+            "isActive": true
+          },
+          {
+            "serviceID": "d0cb730c",
+            "isActive": false
+          },
+          {
+            "serviceID": "b138cbda",
+            "isActive": true
+          }
+        ]
+      },
+      {
+        "branchID": "0dca301d",
+        "services": [
+          {
+            "serviceID": "3414994f",
+            "isActive": false
+          },
+          {
+            "serviceID": "d0cb730c",
+            "isActive": true
+          },
+          {
+            "serviceID": "b138cbda",
+            "isActive": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "companyID": "4ae80e50",
+    "branches": [
+      {
+        "branchID": "88684135",
+        "services": [
+          {
+            "serviceID": "2593bfaf",
+            "isActive": true
+          },
+          {
+            "serviceID": "c36fe5c9",
+            "isActive": true
+          },
+          {
+            "serviceID": "2c1ce890",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "branchID": "c5cd1a46",
+        "services": [
+          {
+            "serviceID": "2593bfaf",
+            "isActive": true
+          },
+          {
+            "serviceID": "c36fe5c9",
+            "isActive": false
+          },
+          {
+            "serviceID": "2c1ce890",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "branchID": "729be914",
+        "name": "Centro",
+        "services": [
+          {
+            "serviceID": "2593bfaf",
+            "isActive": false
+          },
+          {
+            "serviceID": "c36fe5c9",
+            "isActive": false
+          },
+          {
+            "serviceID": "2c1ce890",
+            "isActive": true
+          }
+        ]
+      }
+    ]
+  }
+]

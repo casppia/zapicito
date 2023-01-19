@@ -1,0 +1,5 @@
+.panel__add--btn:hover, .panel__add--btn:active, .panel__add--btn:focus {
+  background-color: #ffffff;
+  border: 1px solid #9026fb;
+  color: #9026fb;
+}/*# sourceMappingURL=PanelButton.css.map */

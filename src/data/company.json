@@ -1,0 +1,25 @@
+{
+  "company": [
+    {
+      "id": "105c3ea1",
+      "name": "Guru Trim",
+      "address": "Lorem ipsum",
+      "phone": 5555555,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+    },
+    {
+      "id": "a098d76b",
+      "name": "Urban Shave",
+      "address": "Lorem ipsum",
+      "phone": 5555555,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+    },
+    {
+      "id": "4ae80e50",
+      "name": "The Legend Room",
+      "address": "Lorem ipsum",
+      "phone": 5555555,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+[
+  {
+    "companyID": "105c3ea1",
+    "employees": [
+      { "id": "b1212bbc",
+        "employeeID": "9e9c68c2",
+        "services" : [
+          {
+            "serviceID": "6a97be8f",
+            "isActive": true
+          },
+          {
+            "serviceID": "cd485ce0",
+            "isActive": true
+          },
+          {
+            "serviceID": "da1c5f05",
+            "isActive": false
+          }
+        ]
+      },
+      { "id": "dddee499",
+        "employeeID": "1995257",
+        "services" : [
+          {
+            "serviceID": "6a97be8f",
+            "isActive": false
+          },
+          {
+            "serviceID": "cd485ce0",
+            "isActive": true
+          },
+          {
+            "serviceID": "da1c5f05",
+            "isActive": false
+          }
+        ]
+      },
+      { "id": "4c6a2487",
+        "employeeID": "6a0e76fb",
+        "services" : [
+          {
+            "serviceID": "6a97be8f",
+            "isActive": false
+          },
+          {
+            "serviceID": "cd485ce0",
+            "isActive": false
+          },
+          {
+            "serviceID": "da1c5f05",
+            "isActive": true
+          }
+        ]
+      },
+      { "id": "ab947fad",
+        "employeeID": "eab1eab3",
+        "services" : [
+          {
+            "serviceID": "6a97be8f",
+            "isActive": true
+          },
+          {
+            "serviceID": "cd485ce0",
+            "isActive": false
+          },
+          {
+            "serviceID": "da1c5f05",
+            "isActive": true
+          }
+        ]
+      },
+      { "id": "8d39e981",
+        "employeeID": "5f00fc17",
+        "services" : [
+          {
+            "serviceID": "6a97be8f",
+            "isActive": true
+          },
+          {
+            "serviceID": "cd485ce0",
+            "isActive": true
+          },
+          {
+            "serviceID": "da1c5f05",
+            "isActive": false
+          }
+        ]
+      },
+      { "id": "93665980",
+        "employeeID": "df35bef9",
+        "services" : [
+          {
+            "serviceID": "6a97be8f",
+            "isActive": true
+          },
+          {
+            "serviceID": "cd485ce0",
+            "isActive": false
+          },
+          {
+            "serviceID": "da1c5f05",
+            "isActive": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "companyID": "a098d76b",
+    "employees": [
+      {
+        "id": "ea5d118e",
+        "employeeID": "6ee6a5cf",
+        "services" : [
+          {
+            "serviceID": "3414994f",
+            "isActive": true
+          },
+          {
+            "serviceID": "d0cb730c",
+            "isActive": false
+          },
+          {
+            "serviceID": "b138cbda",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "id": "d400538f",
+        "employeeID": "ed1ad853",
+        "services" : [
+          {
+            "serviceID": "3414994f",
+            "isActive": false
+          },
+          {
+            "serviceID": "d0cb730c",
+            "isActive": true
+          },
+          {
+            "serviceID": "b138cbda",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "id": "aa433d6d",
+        "employeeID": "da2c08d4",
+        "services" : [
+          {
+            "serviceID": "3414994f",
+            "isActive": false
+          },
+          {
+            "serviceID": "d0cb730c",
+            "isActive": false
+          },
+          {
+            "serviceID": "b138cbda",
+            "isActive": true
+          }
+        ]
+      },
+      {
+        "id": "891460c1",
+        "employeeID": "299e1d05",
+        "services" : [
+          {
+            "serviceID": "3414994f",
+            "isActive": true
+          },
+          {
+            "serviceID": "d0cb730c",
+            "isActive": false
+          },
+          {
+            "serviceID": "b138cbda",
+            "isActive": true
+          }
+        ]
+      },
+      {
+        "id": "a08a7af9",
+        "employeeID": "398a535d",
+        "services" : [
+          {
+            "serviceID": "3414994f",
+            "isActive": false
+          },
+          {
+            "serviceID": "d0cb730c",
+            "isActive": true
+          },
+          {
+            "serviceID": "b138cbda",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "id": "690698ab",
+        "employeeID": "2cbe7560",
+        "services" : [
+          {
+            "serviceID": "3414994f",
+            "isActive": true
+          },
+          {
+            "serviceID": "d0cb730c",
+            "isActive": true
+          },
+          {
+            "serviceID": "b138cbda",
+            "isActive": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "companyID": "4ae80e50",
+    "employees": [
+      {
+        "id": "19c078aa",
+        "employeeID": "76e6e8a2",
+        "services" : [
+          {
+            "serviceID": "2593bfaf",
+            "isActive": false
+          },
+          {
+            "serviceID": "c36fe5c9",
+            "isActive": true
+          },
+          {
+            "serviceID": "2c1ce890",
+            "isActive": true
+          }
+        ]
+      },
+      {
+        "id": "3ed8b513",
+        "employeeID": "b11f3757",
+        "services" : [
+          {
+            "serviceID": "2593bfaf",
+            "isActive": true
+          },
+          {
+            "serviceID": "c36fe5c9",
+            "isActive": false
+          },
+          {
+            "serviceID": "2c1ce890",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "id": "1cf63206",
+        "employeeID": "6e22a188",
+        "services" : [
+          {
+            "serviceID": "2593bfaf",
+            "isActive": false
+          },
+          {
+            "serviceID": "c36fe5c9",
+            "isActive": true
+          },
+          {
+            "serviceID": "2c1ce890",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "id": "bfb09107",
+        "employeeID": "e4e2117d",
+        "services" : [
+          {
+            "serviceID": "2593bfaf",
+            "isActive": false
+          },
+          {
+            "serviceID": "c36fe5c9",
+            "isActive": false
+          },
+          {
+            "serviceID": "2c1ce890",
+            "isActive": true
+          }
+        ]
+      },
+      {
+        "id": "84df93db",
+        "employeeID": "2ff0f57b",
+        "services" : [
+          {
+            "serviceID": "2593bfaf",
+            "isActive": true
+          },
+          {
+            "serviceID": "c36fe5c9",
+            "isActive": true
+          },
+          {
+            "serviceID": "2c1ce890",
+            "isActive": false
+          }
+        ]
+      },
+      {
+        "id": "da047ebb",
+        "employeeID": "f54319c9",
+        "services" : [
+          {
+            "serviceID": "2593bfaf",
+            "isActive": false
+          },
+          {
+            "serviceID": "c36fe5c9",
+            "isActive": true
+          },
+          {
+            "serviceID": "2c1ce890",
+            "isActive": true
+          }
+        ]
+      }
+    ]
+  }
+]
